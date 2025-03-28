@@ -67,7 +67,6 @@ class LinkedList {
         llist.insertAtBeginning(19);
 
 
-
         System.out.println("After insertion of 10, 1 and 19");
         llist.displayLL();
         System.out.println();
