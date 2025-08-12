@@ -1,4 +1,4 @@
-package Leetcode;
+package interviewQuestion;
 
 public class firstunique {
 

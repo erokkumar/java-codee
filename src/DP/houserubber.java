@@ -1,6 +1,7 @@
 package DP;
 
-public class houserubber {
+public class
+houserubber {
     public int rob(int[] nums) {
         int n = nums.length;
         if(n==1)
