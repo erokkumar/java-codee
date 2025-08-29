@@ -15,5 +15,6 @@ public class NumofZero {
             }
         }
         System.out.println(count);
+
     }
 }
