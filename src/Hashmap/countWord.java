@@ -14,6 +14,5 @@ public class countWord {
             map.put(s,map.getOrDefault(s, 0)+1);
         }
         System.out.println(map);
-
     }
 }
