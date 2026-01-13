@@ -25,6 +25,7 @@ class Stu implements Comparable<Stu>{
 public class comparablee {
     public static void main(String[] args) {
         List<Stu> list = new ArrayList<>();
+
         list.add(new Stu(5,"Erok",25));
         list.add(new Stu(7,"Rohit",22));
         list.add(new Stu(4,"Shiv",23));

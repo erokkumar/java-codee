@@ -7,7 +7,7 @@ public class fibonachi {
 
 //    public static int fib(int n){
 //        int a = 0, b = 1, c = 0;
-//        if (n==0){
+//        if (n==0){4
 //            return a;
 //        }
 //       for (int i = 2; i<=n; i++){
